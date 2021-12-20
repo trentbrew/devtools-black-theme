@@ -10,3 +10,5 @@ After installing and enabling in settings > extensions, you need to enable custo
 - Go to the settings (gear icon) > experiments
 - click `allow custom ui themes`
 - reload devtools for theme to fully apply
+
+Chrome Web Store: https://chrome.google.com/webstore/detail/devtools-theme-just-black/cchpcfjfdljcfchegellgojokpfobjkd
